@@ -1,0 +1,255 @@
+body{
+    padding:0px;
+    margin:0px;
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)),        url('pic/dances(1).jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.header{
+ display:flex;
+}
+.logo{
+    font-size: 50px ;
+    color: whitesmoke;
+}
+.navbar{
+    display:inline-block;
+    margin-left:250px ;
+}
+.navbar li{
+    display:inline-block;
+}
+.navbar li  a{
+    font-size: 20px;
+    color: whitesmoke;
+    text-decoration: none;
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+.mid{
+    margin:auto;
+}
+.navbar li a:hover{
+    color:rgb(255, 69, 0);
+}
+.line{
+    word-spacing: 40px;
+    margin-top: 300px;
+    color:whitesmoke;
+    font-size: 100px;
+}
+
+.per{
+    font-size: 20px;
+    margin-top: 250px;
+    color:white;
+}
+.top{
+    display:flex;
+    gap:100px;
+}
+.top img{
+    margin-top: 100px;
+    width: 300px;
+    height:300px;
+}
+.right{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-right: 100px;
+}
+.second{
+    display:flex;
+    gap:100px;
+}
+.second img{
+    margin-top: 100px;
+    width: 300px;
+    height:300px
+}
+.l{
+    font-size: 20px;
+    margin-top: 100px;
+    color:whitesmoke;
+    margin-left: 100px;
+}
+.third{
+    display:flex;
+    gap:100px;
+}
+.third img{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+}
+.about{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-right: 100px;
+}
+.forth{
+    display:flex;
+    gap:100px;
+}
+.forth img {
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+}
+.write{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-left: 100px;
+}
+.five{
+    display:flex;
+    gap:100px;
+}
+.five img{
+    margin-top: 100px;
+    width: 300px;
+    height: 300px;
+}
+.wri{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-right: 100px;
+}
+.six{
+    display:flex;
+    gap:100px;
+}
+.six img{
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+}
+.w{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-left: 100px;
+}
+.seven{
+    display:flex;
+    gap:100px;
+}
+.seven img{
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+}
+.th{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-right: 100px;
+}
+.eight{
+    display:flex;
+    gap:100px;
+}
+.eight img{
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+}
+.ex{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-left: 100px; 
+}
+.nine{
+    display:flex;
+    gap: 100px;
+}
+.nine img{
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+}
+.thi{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-right: 100px; 
+}
+.ten{
+    display:flex;
+    gap: 100px;
+}
+.s{
+    font-size: 20px;
+    margin-top: 100px;
+    color: whitesmoke;
+    margin-left: 100px; 
+}
+.ten img{
+    margin-top: 100px;
+    width: 350px;
+    height: 350px;
+}
+.ri img{
+    margin-right: 100px;
+    padding:80px;
+    width: 90px;
+    height: 90px;
+}
+.mi{
+    color:white;
+    justify-content: center;
+}
+.mi img{
+    padding:80px;
+    width: 80px;
+    height:80px;
+}
+.bottom{
+    display:flex;
+   justify-content: center;
+   gap:10px;
+}
+.h{
+    color:white;
+   justify-content: center;
+}
+.i2m{
+    color:white;
+    justify-content: center;
+    margin-left:50px;
+}
+.lin{
+    text-decoration:none;
+    margin-top: 80px;
+}
+.face_link{
+    text-decoration: none;
+    margin-left:65px;
+}
+
+.git img{
+    margin-top: 65px;
+    width: 105px;
+    height: 105px;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
